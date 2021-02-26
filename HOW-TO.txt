@@ -1,0 +1,76 @@
+HOW-TO
+======
+
+Add a comment in .vimrc?
+------------------------
+"This is a comment in vimrc. It does not have a closing quote 
+
+Execute the current open file?
+------------------------------
+:source %
+
+
+
+Repeat the last command?
+------------------------
+The "." command repeats the last change made in normal mode. For example, if you press dw to delete a word, you can then press . to delete another word (. is dot, aka period or full stop).
+
+The "@:" command repeats the last command-line change (a command invoked with ":", for example :s/old/new/).
+https://vim.fandom.com/wiki/Repeat_last_change
+
+- Repeat a previous command (not the last)?
+-------------------------------------------
+
+Moving lines up or down?
+------------------------
+You can move a line, or a block of lines, with the :m command. Examples:
+
+:m 12	move current line to after line 12
+:m 0	move current line to before first line
+:m $	move current line to after last line
+:m 'a	move current line to after line with mark a (see using marks)
+:m 'a-1	move current line to before line with mark a
+:m '}-1	move current line to the end of the current paragraph
+For clarity, a space is shown after the :m commands above, but that space is not required.
+
+To move a block of lines, use the same command but visually select the lines before entering the move command. You can also use arbitrary ranges with the move command. Examples:
+
+:5,7m 21	move lines 5, 6 and 7 to after line 21
+:5,7m 0	move lines 5, 6 and 7 to before first line
+:5,7m $	move lines 5, 6 and 7 to after last line
+:.,.+4m 21	move 5 lines starting at current line to after line 21
+:,+4m14	same (. for current line is assumed)
+
+https://vim.fandom.com/wiki/Moving_lines_up_or_down
+
+Yank (or cut) and Paste multilines?
+-----------------------------------
+Visual Mode
+
+Put your cursor on the top line
+Use shift+v to enter visual mode
+Press 2j or press j two times to go down two lines
+(Or use v2j in one swift ninja-move!)
+Press y to yank or x to cut
+Move your cursor and use p to paste after the cursor or P to paste before the cursor
+https://fideloper.com/vim-tricks
+
+
+Create a new file in vim?
+-------------------------
+https://stackoverflow.com/questions/13239464/create-a-new-file-in-the-directory-of-the-open-file-in-vim/13239757
+
+Create a new file a show it in split mode in vim?
+-------------------------------------------------
+:vsp newfile
+The vsp stands for vertical split, and it splits the screen in half, one showing your current file, the other showing your new file (also works with just sp, which is a horizontal split).
+
+
+How do I switch between panes in split mode in Vim?
+---------------------------------------------------
+Ctrl-W, s will create a horizontal split.
+Ctrl-W, v will create a vertical split.
+Ctrl-W, direction will allow you to move among the panes.
+:ls will show your open buffers.
+:b <number> will open the specified buffer in the current pane.
+https://www.quora.com/How-do-I-switch-between-panes-in-split-mode-in-Vim

@@ -1,0 +1,30 @@
+Tutorials
+---------
+http://jmcphers.github.io/articles/efficient-editing.html
+http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor
+https://danielmiessler.com/study/vim/
+https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/42693-vim-lediteur-de-texte-du-programmeur
+
+Gaming / Interactive Learning
+-----------------------------
+https://vim-adventures.com/
+https://www.openvim.com/
+https://riptutorial.com/vim/example/5715/interactive-vim-tutorials--such-as-vimtutor-
+http://www.vimgenius.com/
+
+TIPS
+----
+https://vim.fandom.com/wiki/Vim_Tips_Wiki
+
+Vi Cheat Sheet 
+--------------
+http://www.viemu.com/vi-vim-cheat-sheet.gif
+https://www.smashingmagazine.com/2010/05/vi-editor-linux-terminal-cheat-sheet-pdf/
+
+VIMScript
+---------
+https://developer.ibm.com/articles/l-vim-script-1/
+https://developer.ibm.com/tutorials/l-vim-script-2/
+https://developer.ibm.com/tutorials/l-vim-script-3/
+https://developer.ibm.com/tutorials/l-vim-script-4/
+https://developer.ibm.com/tutorials/l-vim-script-5/

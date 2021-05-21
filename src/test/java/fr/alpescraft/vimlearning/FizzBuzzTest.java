@@ -6,7 +6,12 @@ import org.junit.jupiter.api.Test;
 public class FizzBuzzTest {
 
 	@Test
-	public void checkEnvironment(){
+	public void checkEnvironmentRemy(){
+		Assertions.fail("it should failed!");
+	}
+
+	@Test
+	public void checkEnvironmentHoussam(){
 		Assertions.fail("it should failed!");
 	}
 }

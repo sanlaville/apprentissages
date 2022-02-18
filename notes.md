@@ -1,3 +1,40 @@
+# 11 février 2022
+
+## TP = CUP Song 
+
+- Vidéo 
+- Premier essai 
+- Découpage puis entraînement avec les pas : droite gauche
+
+- Observer une Désynchronisation dans les cas suivants 
+  - Attendre d'écouter le son et faire le pas
+  - Ajout d'un nouvel exercice : dire Tic Tac en plus de la synchro en marchant
+- Côté coaching : revenir sur des pas moins grands avant de recommencer 
+- Idée importante : 
+  - volonté de tout maîtriser - pas de lâcher prise (haltéro / trop tendu en prenant la barre)
+  - Idée importante : la maîtrise dans la démaîtrise 
+  - lâcher prise, lâcher l'intellectuel et que le corps devienne la référence (intelligence kinéstésique - mouvement, musicale - mélodie et rythme)
+  - utiliser les différents types d'intelligence : https://www.intelligences-multiples.org/intelligences-multiples2/les-8-types-dintelligences/
+  
+Outils 
+- Métronome 
+
+Références
+https://www.editions-delcourt.fr/bd/series/serie-l-esprit-critique
+
+# Session 18/février 
+
+Format : 
+- respiration 
+- progression de l'apprentissage : (tic tac tic tac) marches - lâcher le mental et le corps prend la place, frapper les mains, verre, mains + verre  
+- accélération : les défauts sont plus visibles 
+- précision du tempo : si oublié par l'apprenti - ça pourrait rectifier le travail 
+
+- la maitrise dans le corps/tempo, le démaitrise dans la tete 
+- le temps doit nous guider 
+- Une semaine : grande progression - le début de la session était réservée pour la relaxation
+  deux croches / deux noirs : vient du monde de la musique
+
 
 # 28 janvier 2022
 ## Sessions pour SoCraTesFR

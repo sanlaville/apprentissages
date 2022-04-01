@@ -1,3 +1,5 @@
+
+
 # 11 février 2022
 
 ## TP = CUP Song 
@@ -35,6 +37,11 @@ Format :
 - Une semaine : grande progression - le début de la session était réservée pour la relaxation
   deux croches / deux noirs : vient du monde de la musique
 
+# session 25/février
+- entrainement pour avoir la maitrise de la démaitrise 
+- importance d'avoir le rythme 
+
+
 
 # 28 janvier 2022
 ## Sessions pour SoCraTesFR
@@ -71,3 +78,34 @@ Discussion :
 
 ### Mypads
 - Lien : https://mypads.framapad.org/mypads/index.html?/login
+
+## Debrief SoCraTes-FR
+
+- action : échanger avec Tanguy
+
+- Gestion du silence : tempo 
+  - comment l'exprimer pour l'apprentissage
+    - importance de rythme ? 
+    - qu'est ce qui révèle les fondamentaux
+    - compensation du silence
+    - il reste à trouver l'équivalent du silence dans l'informatique
+  - couper le flow 
+    - de l'énergie pour reprendre
+
+- Feedback = tempo 
+  - le tempo est le feedback 
+  - c'est la référence
+
+- lâcher prise = accepter de ne pas utiliser ma tête / mon cerveau et d'utiliser un autre type d'intelligence
+
+VIM 
+- lâcher prise = ne pas regarder le clavier 
+- interruption de mon flux de pensée : si je ne maitrise pas les raccourcis 
+- changement de pensée 
+
+Type d'interruption 
+- externe : hors scope 
+- dépendances : on subit
+
+- interruption de manque de connaissance : je ne sais pas faire une fonctionnalité
+- interruption de réalisation : je ne connais pas de raccourcis ou je ne sais pas taper assez vite
